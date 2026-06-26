@@ -1,7 +1,7 @@
 # 03 — NZÚ Bezúročný úvěr: BYTOVÉ DOMY (SVJ a bytová družstva)
 
 > Pro **SVJ a bytová družstva**. Bezúročný úvěr + bonus pro nízkopříjmové domácnosti v BD.
-> Závazné pokyny: [dok. 5115](https://novazelenausporam.cz/dokument/5115). Web: [bezúročný úvěr BD](https://novazelenausporam.cz/bezurocny-uver-svj-bytova-druzstva/).
+> Závazné pokyny **verze 1.1, platné od 24. 6. 2026**: [dok. 5115](https://novazelenausporam.cz/dokument/5115). Web: [bezúročný úvěr BD](https://novazelenausporam.cz/bezurocny-uver-svj-bytova-druzstva/).
 > Související: [[00_prehled_programu]], [[04_castky_a_parametry]], [[05_proces_zadosti_a_dokumenty]].
 
 ## Podporované typy staveb
@@ -14,7 +14,7 @@
 - **Společenství vlastníků jednotek (SVJ)** a **bytová družstva**. *(Zdroj: prezentace s. 37)*
 - **Soukromý vlastník (FO/PO) nárok nemá** — podpora se nevztahuje ani na veřejnou správu, obce, příspěvkové organizace. Důvod: snížené finance z EU, vybrána převažující skupina vlastníků řešících vlastní bytové potřeby. FO/spoluvlastníci by v některých případech mohli založit SVJ a pak žádat. *(Zdroj: Q&A webináře 3.6.2026)*
 - Max. **20 %** plochy pro komerční využití jiné než bydlení.
-- **Vlastnická struktura žadatele:** souhrnný vlastnický/členský podíl právnických osob (s výjimkou obcí a bytových družstev) **nepřevyšuje 50 %** a současně podíl žádného jednotlivého vlastníka/člena **nepřevyšuje 25 %** (omezení se nevztahuje na podíly obcí a bytových družstev). *(Zdroj: prezentace s. 37)*
+- **Vlastnická struktura žadatele:** souhrnný vlastnický/členský podíl právnických osob (s výjimkou obcí a bytových družstev) **nepřevyšuje 50 %** a současně **žádný z vlastníků nesmí mít vlastnický podíl na více než 1/4 bytů a bytových jednotek** v podporované nemovitosti (omezení se nevztahuje na podíly obcí a bytových družstev). *(Zdroj: ZP úvěr BD v1.1 čl. 2.1)*
 - **Změna žadatele** (vč. změny právní formy, např. bytové družstvo → SVJ) **není přípustná** před doložením realizace a před koncem doby udržitelnosti. *(Zdroj: Q&A webináře 3.6.2026)*
 
 ## Dva režimy: dílčí vs. komplexní
@@ -27,7 +27,7 @@
 - **Nelze** nástavby, přístavby, půdní vestavby; není stanovena min. úspora (nesmí dojít k navýšení).
 - Podklad: **Renovační pas NZÚ, popř. PENB** (u BD je u zateplení/kombinace alternativa PD+PENB možná — na rozdíl od RD). *(Zdroj: prezentace s. 39; Q&A webináře 3.6.2026)*
 
-### Komplexní opatření (BD) *(Zdroj: prezentace s. 40; web)*
+### Komplexní renovace (BD) *(Zdroj: prezentace s. 40; web)*
 
 - **Max. úvěr 750 000 Kč/byt** (celková výše neomezena). *(Zdroj: web)*
 - Délka zvýhodnění: max. **10 let** do 1,5 mil. Kč; max. **15 let** nad 1,5 mil. Kč.
@@ -35,13 +35,14 @@
 - Podpora úprav spojených s nástavbou/přístavbou/půdní vestavbou domu.
 - Odstranění spalovacích zdrojů na tuhá fosilní paliva / těžké topné oleje.
 - Podklad: **PENB + projekt**.
+- **Povinný odborný technický dozor** nad prováděním navrhovaných opatření — povinnost žadatele. *(Zdroj: ZP úvěr BD v1.1 čl. 2.3.2)*
 - **U BD není povinná samostatná realizace opatření z C.1/C.2/C.3** — využití OZE je ošetřeno energetickou třídou (C nebo snížení o 30 %). *(Zdroj: Q&A webináře 3.6.2026)*
 
-### Splnění energetického požadavku u komplexu (BD)
+### Splnění energetického požadavku u komplexní renovace (BD)
 
-Nutno splnit **buď**: třída C na primární neobnovitelné energii **+** úspora primární neobnovitelné energie **20 %**, **nebo** úspora primární neobnovitelné energie **30 %**. *(Zdroj: CAFT; prezentace s. 42)*
+Nutno splnit **buď**: třída C na primární neobnovitelné energii **+** snížení výpočtové hodnoty celkové primární energie z neobnovitelných zdrojů **minimálně o 20 %** (pro památkově chráněné budovy **10 %**), **nebo** snížení primární neobnovitelné energie **o 30 %**. *(Zdroj: ZP úvěr BD v1.1; Souhrn změn AES 24.6.2026)*
 
-**Poznámka 1 (alternativa 30 %):** nelze-li splnit třídu C (např. u domů na CZT nebo s decentrálními plynovými kotli v bytech), je alternativou **snížení výpočtové hodnoty celkové primární energie z neobnovitelných zdrojů nejméně o 30 %**. Tato možnost platí **obecně**, napojení na CZT je jen jeden z příkladů. *(Zdroj: Q&A webináře 3.6.2026)*
+**Poznámka (alternativa 30 %):** nelze-li splnit třídu C (např. u domů na CZT nebo s decentrálními plynovými kotli v bytech), je alternativou **snížení výpočtové hodnoty celkové primární energie z neobnovitelných zdrojů nejméně o 30 %**. Tato možnost platí **obecně**, napojení na CZT je jen jeden z příkladů. *(Zdroj: Q&A webináře 3.6.2026)*
 
 ## Bonus pro domácnosti ohrožené energetickou chudobou (přímá dotace v BD)
 
@@ -50,12 +51,12 @@ Nutno splnit **buď**: třída C na primární neobnovitelné energii **+** úsp
 - U dílčího opatření je měrná podpora 0 Kč/m² (bonus jen u komplexu). *(Zdroj: prezentace s. 48)*
 - **Podmínky domácnosti** (stejné jako Light): přiznaná dávka jednotné sociální pomoci, **nebo** příjem do 3. decilu, **nebo** výhradně starobní důchodci do 5. decilu, **nebo** invalidní důchod III. stupně do 5. decilu; **majetkový test 1+1**. *(Zdroj: prezentace s. 48)*
 - **Nelze získat opakovaně** na stejný byt.
-- **Trvalé bydliště členů nízkopříjmových domácností se nevyžaduje.** Žadatelem je SVJ/BD (jedna žádost na úvěr pro komplex + přímou dotaci bonusu); SVJ/BD při podání předkládá **Seznam bytových jednotek uplatňujících bonus**. Podmínka nízkopříjmovosti musí trvat od podání žádosti **do doložení realizace**. *(Zdroj: Q&A webináře 3.6.2026)*
+- **Trvalé bydliště členů nízkopříjmových domácností se nevyžaduje.** Žadatelem je SVJ/BD (jedna žádost na úvěr pro komplex + přímou dotaci bonusu); SVJ/BD při podání předkládá **Seznam bytových jednotek uplatňujících bonus**. Podmínka nízkopříjmovosti musí být splněna **po dobu administrace** (od podání žádosti do doložení realizace). *(Zdroj: ZP úvěr BD v1.1 čl. 3.4)*
 - **NZÚ Light nelze kombinovat s programem pro BD** (Light je pouze pro RD). *(Zdroj: Q&A webináře 3.6.2026)*
 
 ## Obecné podmínky úvěru BD
 
-- Zpětná **způsobilost výdajů: 12 měsíců**; **doložení realizace: 36 měsíců**. *(Zdroj: prezentace s. 38)*
+- Zpětná **způsobilost výdajů: 12 měsíců**; **doložení realizace: 36 měsíců** od Rozhodnutí ministra, popř. od doručení akceptačního dopisu. *(Zdroj: ZP úvěr BD v1.1 čl. 2.4)*
 - Podpora = kompenzace úroků přes finanční instituce; **min. úvěr 100 000 Kč**; úvěruschopnost posuzuje banka. *(Zdroj: prezentace s. 38)*
 - Max. doba **kompenzace úroků**: do 10 let (úvěr do 1,5 mil.), do 15 let (nad 1,5 mil.). Program nestanovuje absolutní max. splatnost úvěru — delší splatnost závisí na produktu banky. *(Zdroj: Q&A webináře 3.6.2026)*
 

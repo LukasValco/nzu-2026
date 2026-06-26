@@ -15,6 +15,8 @@ U **komplexního opatření** se místo RP dokládá **PENB + projektová dokume
 
 - RP je nyní nastaven na úsporná opatření na **stávajících konstrukcích** obálky budovy. Při nástavbách/přístavbách (změna geometrie) se zpravidla zpracuje PENB. *(Zdroj: Q&A webináře 3.6.2026)*
 - RP může nahradit PENB jen tam, kde to program připouští; PENB může být vyžadován zákonem (větší změna dokončené budovy) nezávisle na NZÚ. *(Zdroj: Q&A webináře 3.6.2026)*
+- Zpracovatel RP může navrhnout **až 3 etapy** postupné renovace; v **poslední etapě musí být budova bezemisní** a mít instalovány bezemisní zdroje tepla. *(Zdroj: ZP v1.1 — definice Renovační pas NZÚ)*
+- RP musí obsahovat **všechna opatření navržená v žádosti** v jedné zvolené nebo po sobě jdoucích etapách. **Omezení na první etapu bylo v ZP v1.1 (24. 6. 2026) zrušeno** — lze žádat na libovolnou etapu, pokud jsou všechna opatření předchozích etap dokončena. *(Zdroj: ZP Light v1.1 čl. 5.3; ZP úvěr RD v1.1 čl. 5.3; ZP úvěr BD v1.1 čl. 5.3.1)*
 - **Metodika zpracování RP** platná od 30. 4. 2026; aplikace „Renovační pas budovy" je na webu NZÚ. ⚠ Probíhá vývoj aplikace. *(Zdroj: Q&A webináře 3.6.2026)*
 - Jednotkové ceny opatření v RP **nejsou závazné** (orientační). *(Zdroj: Q&A webináře 3.6.2026)*
 
@@ -40,7 +42,7 @@ Příspěvky na vypracování renovačního pasu a poradenství: *(Zdroj: prezen
 
 ## Kdo může zpracovávat RP a dokumenty
 
-> ⚠ POZOR — zde byl nesoulad mezi Q&A a závaznými ZP. **Platí závazné znění ZP** (28. 5. 2026); avizované rozšíření z Q&A zatím v ZP **není**.
+> ⚠ POZOR — zde byl nesoulad mezi Q&A a závaznými ZP. **Platí závazné znění ZP** (v1.0 ze dne 28. 5. 2026 a v1.1 ze dne 24. 6. 2026); avizované rozšíření okruhu zpracovatelů z Q&A 3.6.2026 **v1.1 nezapracovala** — stav se nezměnil.
 
 **Závazné znění (ZP Light čl. 5.1 a ZP úvěr RD čl. 5.1):**
 
@@ -51,7 +53,7 @@ Příspěvky na vypracování renovačního pasu a poradenství: *(Zdroj: prezen
 - **Výpočtový nástroj vhodnosti TČ:** osoba/firma oprávněná dle § 10d (instalace TČ), autorizovaná osoba, nebo ES (§ 10 odst. 1 písm. a/b).
 - Zpracovatel **nesmí být ve střetu zájmů** s dodavatelem; činnost nesmí vykonávat žadatel/vlastník/stavebník ani osoby blízké. *(Zdroj: ZP Light čl. 5; ZP úvěr RD čl. 5.)*
 
-> ⚠ MŮŽE SE MĚNIT (avizováno v Q&A 3.6.2026, zatím není v ZP): rozšíření okruhu zpracovatelů o **registrovaného energetického poradce/manažera** registrovaného poradenského subjektu (s registrací v aplikaci poradců), úprava podmínky **střetu zájmů** a možné **zrušení Zprávy o navrhovaných opatřeních**. *(Zdroj: Q&A webináře 3.6.2026.)*
+> ⚠ STÁLE PLATNÉ (avizováno v Q&A 3.6.2026, v ZP v1.1 zatím **nezměněno**): rozšíření okruhu zpracovatelů o **registrovaného energetického poradce/manažera**, úprava podmínky **střetu zájmů** a možné **zrušení Zprávy o navrhovaných opatřeních** — tyto změny v platné verzi ZP nejsou. *(Zdroj: Q&A webináře 3.6.2026; ZP v1.1 čl. 5.1)*
 
 ## Registrace poradců a přístup do aplikace
 

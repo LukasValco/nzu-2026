@@ -1,11 +1,11 @@
 # 00 — Přehled programu NZÚ 2026+
 
-> Zdroj pravdy: oficiální web SFŽP (novazelenausporam.cz), Závazné pokyny platné od 28. 5. 2026, prezentace SFŽP z 3. 6. 2026, shrnutí CAFT, Q&A webináře 3. 6. 2026.
-> Poslední aktualizace: 2026-06-08. Program je nový a podmínky se mohou upřesňovat — viz [[10_zdroje]] a poznámky „⚠ MŮŽE SE MĚNIT".
+> Zdroj pravdy: oficiální web SFŽP (novazelenausporam.cz), **Závazné pokyny verze 1.1 platné od 24. 6. 2026**, prezentace SFŽP z 3. 6. 2026, shrnutí CAFT, Q&A webináře 3. 6. 2026.
+> Poslední aktualizace: 2026-06-26. Program je nový a podmínky se mohou upřesňovat — viz [[10_zdroje]] a poznámky „⚠ MŮŽE SE MĚNIT".
 
 ## Co je NZÚ 2026+
 
-Nová zelená úsporám (NZÚ) je dotační program **Ministerstva životního prostředí**, administrovaný **Státním fondem životního prostředí ČR (SFŽP)**, zaměřený na úspory energií v rodinných a bytových domech. Nová etapa „2026+" byla představena **28. 5. 2026** (finální podoba programu) a navazuje na předchozí etapu ukončenou v listopadu 2025. *(Zdroj: web — tisková zpráva 28. 5. 2026; Dokumenty platné od 28. 5. 2026)*
+Nová zelená úsporám (NZÚ) je dotační program **Ministerstva životního prostředí**, administrovaný **Státním fondem životního prostředí ČR (SFŽP)**, zaměřený na úspory energií v rodinných a bytových domech. Nová etapa „2026+" byla představena **28. 5. 2026** a navazuje na předchozí etapu ukončenou v listopadu 2025. **Závazné pokyny byly aktualizovány na verzi 1.1 dne 24. 6. 2026** (platné pro všechny žádosti podané od tohoto data). *(Zdroj: web — Dokumenty; ZP v1.1 24. 6. 2026)*
 
 Program je spolufinancován Evropskou unií — **Modernizační fond / Systém pro obchodování s emisemi** a částečně **Národní plán obnovy (NPO)**. Financování z NPO je důvodem, proč musí být některé aktivity (renovační pasy, poradenství) dokončeny do konce roku 2026. *(Zdroj: prezentace SFŽP 3.6.2026, s. 1; Q&A webináře 3.6.2026, výzva 2/2026)*
 
@@ -68,11 +68,10 @@ Konkrétní částky a technické parametry: [[04_castky_a_parametry]].
 
 ## Klíčové termíny etapy 2026+
 
-- **Dokumenty (Závazné pokyny) platné od:** 28. 5. 2026 *(Zdroj: web — Dokumenty)*
+- **Dokumenty (Závazné pokyny) platné od:** ~~28. 5. 2026~~ → **24. 6. 2026 (verze 1.1)** *(Zdroj: web — Dokumenty)*
 - **Příjem žádostí (dotace i posouzení projektu u úvěru) na SFŽP:** od **25. 6. 2026** *(Zdroj: Q&A webináře 3.6.2026)*
 - **Poskytování úvěrů bankami:** předpokládá se cca **září 2026** (úvěr lze čerpat až po vydání Rozhodnutí ministra, proto je příjem žádostí na SFŽP dříve) *(Zdroj: Q&A webináře 3.6.2026)*
 - **Zpětná způsobilost výdajů:** 12 měsíců před podáním žádosti (všechny tři programy) *(Zdroj: Q&A webináře 3.6.2026; prezentace s. 18)*
-- ⚠ MŮŽE SE MĚNIT: probíhá **aktualizace Závazných pokynů** (zejména upřesnění oprávněných zpracovatelů u NZÚ Light, odkazy v BD pokynech). *(Zdroj: Q&A webináře 3.6.2026)*
 
 ## Statistiky programu (historicky, celý NZÚ)
 

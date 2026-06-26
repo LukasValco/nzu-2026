@@ -6,6 +6,7 @@
 ## Jak podat žádost
 
 - Výhradně **elektronicky** přes **AIS SFŽP ČR** ([zadosti.sfzp.cz](https://zadosti.sfzp.cz/)). *(Zdroj: web)*
+- **Prohlášení žadatele** je součástí žádosti formou zaškrtnutých checkboxů přímo v systému AIS — nejde o samostatnou přílohu. *(Zdroj: ZP úvěr RD v1.1)*
 - Žádat lze **před zahájením, v průběhu nebo po dokončení** prací. *(Zdroj: web)*
 - **Příjem žádostí na SFŽP: od 25. 6. 2026.** Úvěr u banky lze čerpat až po vydání Rozhodnutí ministra (banky cca od září 2026). *(Zdroj: Q&A webináře 3.6.2026)*
 
@@ -21,23 +22,27 @@
 
 ### NZÚ Light *(Zdroj: prezentace s. 14)*
 
-- Renovační pas NZÚ (energetický specialista / autorizovaná osoba); RP je základní dokument i pro opatření v oblasti C.
+- Renovační pas NZÚ (energetický specialista / autorizovaná osoba); RP je základní dokument i pro opatření v oblasti C. RP musí obsahovat všechna opatření v žádosti (v jedné nebo po sobě jdoucích etapách); předchozí etapy musí být dokončeny.
 - Dokument prokazující příjem domácnosti / přiznání důchodu / dávky sociální pomoci.
+- **Výpočtový nástroj pro příjmový decil** (příloha k žádosti) + doklady o příjmu. *(Zdroj: ZP Light v1.1 čl. 4)*
 - Fotodokumentace.
-- U výměny zdroje za TČ: výpočtový nástroj k posouzení vhodnosti instalace TČ.
+- U výměny zdroje za TČ pro teplovodní soustavu: **výpočtový nástroj k posouzení vhodnosti instalace TČ** — nevyžaduje se při kombinaci s komplexním zateplením. *(Zdroj: ZP Light v1.1 čl. 4)*
+- U dílčího zateplení dokládaného renovačním pasem: **Záznam o návštěvě na místě**. *(Zdroj: ZP Light v1.1 čl. 4)*
 
 ### NZÚ úvěr — RD *(Zdroj: prezentace s. 29–31)*
 
 | Oblast | Dílčí opatření | Komplexní opatření |
 |---|---|---|
-| **A — zateplení** | Renovační pas NZÚ + fotodokumentace | PENB + projektová dokumentace |
-| **C — zdroje (C.1–C.4)** | Renovační pas NZÚ + fotodokumentace; u TČ navíc výpočtový nástroj vhodnosti TČ | (součást komplexu — PENB + projekt) |
+| **A — zateplení** | Renovační pas NZÚ + fotodokumentace; u dílčího zateplení s RP navíc **Záznam o návštěvě na místě** | PENB + projektová dokumentace |
+| **C — zdroje (C.1–C.4)** | Renovační pas NZÚ + fotodokumentace; u TČ pro teplovodní soustavu **výpočtový nástroj vhodnosti TČ** (nevyžaduje se při kombinaci s komplexním zateplením) | (součást komplexu — PENB + projekt) |
 | **C.4 — větrání** | projekt nebo zjednodušený návrh | |
 | **C.5 — teplo z odpadní vody** | zjednodušené schéma | |
 | **D.1 — zelené střechy** | výkresová část — půdorys zelené střechy | |
 | **D.2 — hospodaření s vodou** | projekt nebo zjednodušený návrh | |
 
 > U RD je u dílčího opatření (vč. samostatné FVE) **vždy povinný Renovační pas** — alternativa PD+PENB zde **není**. PENB může být navíc vyžadován zákonem (větší změna dokončené budovy), pak posuzuje stav po realizaci a SFŽP se nepředkládá. *(Zdroj: Q&A webináře 3.6.2026)*
+
+> U žádostí o **25letou kompenzaci úroků** (komplexní opatření RD): k podání se navíc přikládá **výpočtový nástroj pro příjmový decil** + doklady o příjmu domácnosti. *(Zdroj: ZP úvěr RD v1.1 čl. 4)*
 
 ### NZÚ úvěr — BD *(Zdroj: prezentace s. 49–51)*
 

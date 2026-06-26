@@ -1,7 +1,7 @@
 # 06 — Způsobilost, kombinace opatření, decily a termíny
 
 > Průřezová pravidla: kdo a jaké nemovitosti mají nárok, majetkový test, příjmové decily, kombinace s dřívějšími dotacemi, zákaz dvojího financování, etapy renovačního pasu.
-> Zdroj: **Závazné pokyny (ZP) NZÚ Light a ZP Bezúročný úvěr RD, platné od 28. 5. 2026** (autoritativní), doplněno Q&A webináře 3.6.2026, prezentace SFŽP, web. Související: [[02_uver_rodinne_domy]], [[01_nzu_light]], [[07_renovacni_pas_poradenstvi]], [[08_faq]], [[10_zdroje]].
+> Zdroj: **Závazné pokyny (ZP) NZÚ Light a ZP Bezúročný úvěr RD, verze 1.1, platné od 24. 6. 2026** (autoritativní), doplněno Q&A webináře 3.6.2026, prezentace SFŽP, web. Související: [[02_uver_rodinne_domy]], [[01_nzu_light]], [[07_renovacni_pas_poradenstvi]], [[08_faq]], [[10_zdroje]].
 >
 > ✅ = potvrzeno v Závazných pokynech (závazné). ⚠ = pochází z Q&A / může se měnit, není v ZP, nebo ZP avizují úpravu.
 
@@ -37,16 +37,16 @@
 ## Kombinace s dřívějšími programy / dvojí financování
 
 - **Zákaz dvojího financování:** podporu nelze poskytnout na opatření, na která už byla čerpána dotace z veřejných prostředků / programů vyhlášených po 1. 1. 2009 (např. **kotlíkové dotace**). *(Zdroj: Q&A webináře 3.6.2026)*
-- **Nelze opakovaně** žádat na **stejnou konstrukci nebo s obdobným účelem** (opakovaná výměna zdroje, opakovaná FVE, opakovaný systém řízeného větrání apod.). Lze ale podpořit **jinou** konstrukci (např. byla-li zateplena severní stěna, lze podpořit ostatní stěny). *(Zdroj: Q&A webináře 3.6.2026)*
+- **Nelze opakovaně** žádat na **stejnou konstrukci nebo s obdobným účelem** (opakovaná výměna zdroje, opakovaná FVE, opakovaný systém řízeného větrání apod.). Podpora se rovněž **neposkytuje na rozšíření nebo úpravy stávajících zdrojů** energie (nejen OZE) — pokryta je pouze výměna za nový zdroj. Lze ale podpořit **jinou** konstrukci (např. byla-li zateplena severní stěna, lze podpořit ostatní stěny). *(Zdroj: Q&A webináře 3.6.2026; ZP v1.1)*
 - **NZÚ Light → standardní úvěr:** po uplynutí doby udržitelnosti (5 let) lze podat žádost o zvýhodněný úvěr v běžné NZÚ pro RD. Nízkopříjmoví, kteří v Light nevyčerpali limit, mohou do limitu dočerpat (vč. úvěru ve výši dotace). *(Zdroj: Q&A webináře 3.6.2026)*
 - ✅ **Light + bezúročný úvěr na zateplení stejné nemovitosti:** podporu zateplení (oblast A) **nelze** poskytnout, byla-li na **stejné nemovitosti** v minulosti poskytnuta zvýhodněná podpora zateplení pro nízkopříjmové (NZÚ Light) a **ke dni podání žádosti neuplynula doba udržitelnosti** tohoto opatření. Vazba je **na nemovitost**, ne na žadatele (platí i pro nového vlastníka). *(Zdroj: ZP úvěr RD čl. 3.1 — Oblast A.)* ⚠ Praktický problém nových vlastníků, kteří o předchozím Light nevědí (duplicita v systému), byl v Q&A označen k řešení — v ZP zatím nezměněno. *(Zdroj: Q&A 3.6.2026.)*
 - **„Oprav dům po babičce"** a dřívější zvýhodněné úvěry: na stejná opatření nelze opakovaně žádat; zvýhodněné úvěry již byly ukončeny. *(Zdroj: Q&A webináře 3.6.2026)*
 
 ## Etapy renovačního pasu (závaznost pro žádost)
 
-- Žádost smí obsahovat **pouze opatření odpovídající první etapě** Renovačního pasu NZÚ; lze sloučit s navazujícími etapami, ale **nelze etapy přeskakovat**. *(Zdroj: Q&A webináře 3.6.2026)*
-- Pokud nebyla realizována opatření z předchozí etapy, nelze žádat na další. U TČ může přeskočení znamenat nezpůsobilost (stávající otopná soustava bez zateplení nemusí vyhovovat pro efektivní vytápění TČ). *(Zdroj: Q&A webináře 3.6.2026)*
-- O pořadí a rozdělení do etap rozhoduje **zpracovatel renovačního pasu** po obhlídce a konzultaci s žadatelem. Při změně opatření je nutné RP **aktualizovat**. *(Zdroj: Q&A webináře 3.6.2026)*
+- RP musí obsahovat **všechna opatření navržená v žádosti** v jedné zvolené etapě nebo **po sobě jdoucích etapách** — **nelze etapy přeskakovat**. Omezení na „první etapu" bylo v ZP v1.1 zrušeno: žádat lze na libovolnou etapu za podmínky, že **všechna opatření předchozích etap jsou dokončena** (před podáním žádosti). *(Zdroj: ZP Light v1.1 čl. 5.3; ZP úvěr RD v1.1 čl. 5.3; ZP úvěr BD v1.1 čl. 5.3.1)*
+- Pokud nebyla realizována opatření z předchozích etap, nelze žádat na následující. U TČ může přeskočení zateplení znamenat nezpůsobilost (stávající otopná soustava bez zateplení nemusí vyhovovat pro efektivní vytápění TČ). *(Zdroj: Q&A webináře 3.6.2026)*
+- Zpracovatel RP může navrhnout **až 3 etapy** renovace; v poslední etapě musí být budova bezemisní s bezemisními zdroji tepla. O pořadí a rozdělení do etap rozhoduje **zpracovatel renovačního pasu** po obhlídce a konzultaci s žadatelem. Při změně opatření je nutné RP **aktualizovat**. *(Zdroj: ZP úvěr BD v1.1 čl. 11)*
 
 ## Nástavby, přístavby, půdní vestavby
 
@@ -57,8 +57,4 @@
 ## Plochy a způsob výpočtu
 
 - Dotační plochy se počítají z **vnějších rozměrů** konstrukce (jako v PENB / renovačním pasu) — obálkové konstrukce. *(Zdroj: Q&A webináře 3.6.2026)*
-- Limit **20 % plochy pro podnikání**: nevytápěné části se nezapočítávají; pronájem pro bydlení/ubytování se započítává a při překročení 20 % nelze žádat. *(Zdroj: Q&A webináře 3.6.2026)*
-
-## Předchozí (ukončená) etapa
-
-Podpora podle dřívějších (pozastavených) podmínek **není možná** — alokace byly vyčerpány. Existuje samostatná **kompenzace projektové přípravy 2025** (příjem žádostí 25. 3. – 15. 4. 2026) pro ty, kdo nestihli do listopadu 2025 podat žádost na komplexní renovaci. *(Zdroj: Q&A webináře 3.6.2026; web — kompenzace projektové přípravy)*
+- Limit **20 % plochy pro podnikání**: nevytápěn

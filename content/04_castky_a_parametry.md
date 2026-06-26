@@ -1,7 +1,7 @@
 # 04 — Částky a technické parametry (referenční tabulky)
 
 > Souhrn všech max. částek a klíčových technických parametrů napříč programy. Pro podmínky a kontext viz [[01_nzu_light]], [[02_uver_rodinne_domy]], [[03_uver_bytove_domy]].
-> Zdroj: prezentace SFŽP 3.6.2026 (s. 10–12, 21–28, 41–48), web novazelenausporam.cz, shrnutí CAFT. Vždy ověřit proti Závazným pokynům — viz [[10_zdroje]].
+> Zdroj: prezentace SFŽP 3.6.2026 (s. 10–12, 21–28, 41–48), web novazelenausporam.cz, **Závazné pokyny verze 1.1 (platné od 24. 6. 2026)**. Vždy ověřit proti aktuálním Závazným pokynům — viz [[10_zdroje]].
 
 ---
 
@@ -33,11 +33,9 @@ Strop dotace na zateplení: **až 250 000 Kč**.
 
 | Opatření | Dotace [Kč] |
 |---|---|
-| Solární termický ohřev vody (SOL), apertura min. 1,8 m² | 70 000 |
-| TČ pro ohřev vody (TČ-V) | 70 000 |
+| Solární termický ohřev vody (SOL), apertura min. 1,8 m²; zásobník min. 45 l/m² apertury | 60 000 |
+| TČ pro ohřev vody (TČ-V) | 60 000 |
 | FVE s ohřevem vody — základní systém min. 3 kWp | 120 000 |
-
-⚠ CAFT uvádí u ohřevu vody 60 000 Kč; **autoritativní je web/prezentace = 70 000 Kč**.
 
 Strop dotace na OZE/zdroje (Light): **až 150 000 Kč**. Celkový strop dotace Light: **až 400 000 Kč**.
 
@@ -78,9 +76,9 @@ Strop dotace na OZE/zdroje (Light): **až 150 000 Kč**. Celkový strop dotace L
 | C.3 — FVE: **max. celkem** | | **400 000** |
 | C.4 — řízené větrání ZZT (VZT) | | 200 000 |
 | C.5 — využití tepla z odpadní vody | | 100 000 |
-| D.1 — zelená střecha | min. tloušťka souvrství 75 mm; 2 000 Kč/m²; jen v kombinaci s A/C | max. 150 000 |
-| D.2 — dešťová voda + WC | jen v kombinaci s A/C | 100 000 |
-| D.2 — šedá voda | jen v kombinaci s A/C | 150 000 |
+| D.1 — zelená střecha | min. tloušťka souvrství 75 mm (alternativně C ≤ 0,55); 2 000 Kč/m²; jen v kombinaci s A/C | max. 150 000 |
+| D.2 — dešťová voda + WC | jen v kombinaci s A/C; na systém napojena ≥ ½ toalet, min. 1 toaleta | 100 000 |
+| D.2 — šedá voda | jen v kombinaci s A/C; na systém napojena ≥ ½ toalet, min. 1 toaleta | 150 000 |
 
 ### Stropy úvěru RD
 
@@ -124,8 +122,8 @@ Strop dotace na OZE/zdroje (Light): **až 150 000 Kč**. Celkový strop dotace L
 | C.3 — FVE akumulace (Li) | nepovinná, až 2× instal. výkon | 15 000 Kč/kWh |
 | C.4 — větrání ZZT | | 100 000 Kč/byt |
 | C.5 — teplo z odpadní vody | | 50 000 Kč/byt |
-| D.1 — zelená střecha | 2 000 Kč/m²; jen s A/C | max. 500 000 Kč |
-| D.2 — šedá voda | jen s A/C; b = počet napojených bytů | 120 000 + 10 000 × b |
+| D.1 — zelená střecha | min. tloušťka souvrství 75 mm (alternativně C ≤ 0,55); 2 000 Kč/m²; jen s A/C | max. 500 000 Kč |
+| D.2 — šedá voda | jen s A/C; na systém napojena ≥ ½ toalet; b = počet napojených bytů | 120 000 + 10 000 × b |
 
 ### Stropy úvěru BD
 

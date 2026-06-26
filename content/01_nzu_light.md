@@ -1,7 +1,7 @@
 # 01 — NZÚ Light (zranitelné / nízkopříjmové domácnosti)
 
 > Pouze pro **rodinné domy**. Přímá dotace vyplácená předem (ex ante), volitelně doplněná bezúročným úvěrem do výše dotace.
-> Závazné pokyny: [dok. 5113](https://novazelenausporam.cz/dokument/5113). Web: [NZÚ Light](https://novazelenausporam.cz/nzu-light-zranitelne-domacnosti/).
+> Závazné pokyny **verze 1.1, platné od 24. 6. 2026**: [dok. 5113](https://novazelenausporam.cz/dokument/5113). Web: [NZÚ Light](https://novazelenausporam.cz/nzu-light-zranitelne-domacnosti/).
 > Související: [[00_prehled_programu]], [[04_castky_a_parametry]], [[06_zpusobilost_kombinace_terminy]], [[07_renovacni_pas_poradenstvi]].
 
 ## Pro koho je NZÚ Light
@@ -39,7 +39,7 @@ Detailní tabulky částek a technických parametrů: [[04_castky_a_parametry]] 
 
 Podporované zdroje C.1 (Light): kotel na biomasu 120 000, kamna 50 000, TČ vzduch-vzduch 100 000, TČ vzduch-voda / země-voda / voda-voda 150 000, napojení na CZT 50 000 Kč. *(Zdroj: prezentace s. 11; web)*
 
-Ohřev vody C.2 (Light): solární termický **70 000 Kč**, TČ pro ohřev vody **70 000 Kč**. *(Zdroj: web; prezentace s. 12)* ⚠ Pozn.: shrnutí CAFT uvádí 60 000 Kč — **web/prezentace (70 000 Kč) jsou autoritativní**.
+Ohřev vody C.2 (Light): solární termický **60 000 Kč**, TČ pro ohřev vody **60 000 Kč**. *(Zdroj: ZP Light v1.1; Souhrn změn AES 24.6.2026)* Podmínky SOL: apertura min. 1,8 m², **minimální objem zásobníku 45 l/m² apertury kolektoru** (zvýšeno z 40 l/m²). *(Zdroj: ZP Light v1.1 čl. 3 oblast C)*
 
 FVE s ohřevem vody C.3 (Light): základní systém min. 3 kWp — **120 000 Kč**. Podmínky: 3f připojení k síti, povinná akumulace do ohřevu vody (min. 200 l), el. akumulátor nepovinný, automatické připojení bivalentního zdroje, ochrana proti opaření, střídač s možností omezení přetoků. *(Zdroj: prezentace s. 12; web; CAFT)*
 
@@ -49,6 +49,7 @@ FVE s ohřevem vody C.3 (Light): základní systém min. 3 kWp — **120 000 Kč
 
 - Příjemce dotace NZÚ Light může navíc získat **zvýhodněný (bezúročný) úvěr max. ve výši poskytnuté dotace** (0–400 000 Kč). *(Zdroj: web; Q&A webináře 3.6.2026)*
 - Pro NZÚ Light **neplatí** minimální výše úvěru 100 000 Kč. *(Zdroj: web — bezúročný úvěr RD)*
+- **Maximální doba kompenzace úroků pro Light úvěr: 10 let.** Fond negarantuje poskytnutí úvěru bankou; kompenzace se vztahuje pouze na skutečně čerpanou část úvěru. *(Zdroj: ZP Light v1.1 čl. 2.3)*
 - Kombinace NZÚ Light se „standardní" NZÚ pro RD je možná **až po uplynutí doby udržitelnosti (5 let)**. *(Zdroj: prezentace s. 9; Q&A webináře 3.6.2026)*
 
 ## Klíčové lhůty
@@ -61,10 +62,12 @@ FVE s ohřevem vody C.3 (Light): základní systém min. 3 kWp — **120 000 Kč
 
 K podání žádosti: *(Zdroj: prezentace s. 14)*
 
-- **Renovační pas NZÚ** (zpracovatel: energetický specialista / autorizovaná osoba; pro Light platí, že RP je základní dokument **i pro opatření v oblasti C**). *(Zdroj: Q&A webináře 3.6.2026)*
+- **Renovační pas NZÚ** (zpracovatel: energetický specialista / autorizovaná osoba; pro Light platí, že RP je základní dokument **i pro opatření v oblasti C**). RP musí obsahovat všechna opatření navržená v žádosti (v jedné etapě nebo po sobě následujících etapách); předchozí etapy musí být dokončeny. *(Zdroj: ZP Light v1.1 čl. 5.3)*
 - Dokument prokazující příjem domácnosti / přiznání důchodu / dávky sociální pomoci.
+- **Výpočtový nástroj pro určení příjmového decilu** (příloha k žádosti). *(Zdroj: ZP Light v1.1 čl. 4)*
 - Fotodokumentace.
-- U výměny zdroje za TČ: **výpočtový nástroj k posouzení vhodnosti instalace TČ**.
+- U výměny zdroje za TČ: **výpočtový nástroj k posouzení vhodnosti instalace TČ** (nevyžaduje se při kombinaci s komplexním zateplením). *(Zdroj: ZP Light v1.1 čl. 4)*
+- U dílčího zateplení dokládaného renovačním pasem: **Záznam o návštěvě na místě**. *(Zdroj: ZP Light v1.1 čl. 4)*
 
 K doložení realizace: Zpráva o provedených opatřeních (energetický specialista / autorizovaná osoba / energetický poradce), Zpráva o realizaci OZE (dodavatelská firma), fotodokumentace. *(Zdroj: prezentace s. 14)*
 
@@ -76,7 +79,7 @@ K doložení realizace: Zpráva o provedených opatřeních (energetický specia
 - **Dokumenty prokazující příjem domácnosti:** předkládají se **prostřednictvím středisek MAS/EKIS**.
 - Zpracovatel **nesmí být ve střetu zájmů** s dodavatelem; činnost nesmí vykonávat žadatel/vlastník ani osoby blízké (čl. 5).
 
-> ⚠ MŮŽE SE MĚNIT: v Q&A 3.6.2026 (tj. po vydání ZP) SFŽP avizuje **rozšíření** okruhu zpracovatelů (i registrovaný energetický poradce/manažer registrovaného subjektu), úpravu podmínky střetu zájmů a možné **zrušení zprávy o navrhovaných opatřeních**. Do změny ZP ale platí výše uvedené závazné znění. *(Zdroj: ZP Light čl. 5.1, 4.1; avizované změny Q&A 3.6.2026.)*
+> ⚠ ZP Light v1.1 (24. 6. 2026) avizované rozšíření okruhu zpracovatelů z Q&A 3.6.2026 **nezapracovala** — platí závazné znění výše. Do případné další aktualizace ZP nelze se na avizované změny spolehávat. *(Zdroj: ZP Light v1.1 čl. 5.1, 4.1)*
 
 ## Zdarma zpracování pro nízkopříjmové
 

@@ -1,7 +1,7 @@
 # 02 — NZÚ Bezúročný úvěr: RODINNÉ DOMY
 
 > Pro **ostatní domácnosti** (které nespadají do NZÚ Light). Podpora formou bezúročného úvěru (0 % RPSN) přes banky/spořitelny, úroky kompenzuje SFŽP.
-> Závazné pokyny: [dok. 5114](https://novazelenausporam.cz/dokument/5114). Web: [bezúročný úvěr RD](https://novazelenausporam.cz/bezurocny-uver-rodinne-domy/).
+> Závazné pokyny **verze 1.1, platné od 24. 6. 2026**: [dok. 5114](https://novazelenausporam.cz/dokument/5114). Web: [bezúročný úvěr RD](https://novazelenausporam.cz/bezurocny-uver-rodinne-domy/).
 > Související: [[00_prehled_programu]], [[04_castky_a_parametry]], [[05_proces_zadosti_a_dokumenty]], [[06_zpusobilost_kombinace_terminy]].
 
 ## Podporované typy staveb
@@ -21,7 +21,7 @@ Stávající rodinné domy a obdobné stavby: *(Zdroj: prezentace SFŽP 3.6.2026
 
 - Vlastník — **výhradně fyzická osoba**. *(Zdroj: prezentace s. 17)*
 - Max. **20 % plochy** pro podnikání (nevytápěné části se nezapočítávají; pronájem pro bydlení/ubytování se do 20 % započítává). *(Zdroj: Q&A webináře 3.6.2026)*
-- **Trvalý pobyt** žadatele a všech členů domácnosti od doložení realizace po dobu udržitelnosti (min. 5 let). Lze i přes příbuzného v přímé linii (rodiče, děti) — kromě varianty úvěru na 25 let. *(Zdroj: prezentace s. 17; Q&A webináře 3.6.2026)*
+- **Trvalý pobyt** žadatele a všech členů domácnosti od doložení realizace po dobu udržitelnosti (min. 5 let). Podmínku lze splnit přes **zletilého příbuzného v přímé linii** (rodiče, děti) — výhradně u úvěrů s **maximální dobou kompenzace úroků do 15 let**. ✅ U **25leté kompenzace** tuto výjimku **nelze použít** — trvalý pobyt musí mít přímo žadatelova domácnost. *(Zdroj: ZP úvěr RD v1.1 čl. 2.4)*
 - Stavba **nesmí být spoluvlastněna právnickou osobou**.
 
 ## Dva režimy: dílčí vs. komplexní opatření
@@ -34,11 +34,12 @@ Stávající rodinné domy a obdobné stavby: *(Zdroj: prezentace SFŽP 3.6.2026
 - Pouze zateplení stávajících konstrukcí — **nelze** nástavby, přístavby, půdní vestavby.
 - **Není** stanovena minimální úspora energie, nesmí však dojít k navýšení spotřeby.
 - Podklad pro hodnocení žádosti: **Renovační pas NZÚ** (u RD u dílčího opatření vždy povinný; alternativa PD+PENB zde **není** umožněna). *(Zdroj: Q&A webináře 3.6.2026)*
-- Možnost žádat opakovaně až do výše 750 000 Kč (po ukončení předchozí žádosti), pokračovat lze i komplexním opatřením.
+- Možnost žádat opakovaně až do výše 750 000 Kč; další žádost lze podat **vždy až po doložení dokončení realizace, po závěrečném kladném vyhodnocení předchozí žádosti a finálním finančním vypořádání**. Pokračovat lze i komplexním opatřením. *(Zdroj: ZP úvěr RD v1.1 čl. 2.3.1)*
 
 ### NZÚ — Komplexní opatření (větší rozsah) *(Zdroj: prezentace s. 20; web)*
 
 - Komplexní zateplení s využitím OZE (zdroj splňující C.1 nebo C.2 nebo C.3 — může být i stávající, pořízený bez dotace).
+- Na podporovanou nemovitost lze uplatnit **pouze jednu žádost** o podporu komplexního opatření. *(Zdroj: ZP úvěr RD v1.1 čl. 2.3.2)*
 - **Maximální výše úvěru 2 000 000 Kč** — absolutní strop pro všechny žádosti a veškerá opatření na danou nemovitost dohromady (nelze navyšovat přičítáním technologií). *(Zdroj: Q&A webináře 3.6.2026)*
 - Délka zvýhodnění: max. **10 let** do 500 000 Kč; max. **15 let** nad 500 000 Kč; max. **25 let** — domácnost do **4. příjmového decilu** + majetkový test 1+1.
 - Podporovány **nástavby a přestavby** domů; lze i „novostavbu na místě odstraněné stavby".
@@ -47,20 +48,20 @@ Stávající rodinné domy a obdobné stavby: *(Zdroj: prezentace SFŽP 3.6.2026
 
 ### Speciální podmínky úvěru na 25 let
 
-Platí **jen** pro komplexní renovaci s dobou kompenzace úroků až 25 let: *(Zdroj: Q&A webináře 3.6.2026)*
+Platí **jen** pro komplexní renovaci s dobou kompenzace úroků až 25 let: *(Zdroj: ZP úvěr RD v1.1 čl. 2.3)*
 
-- Ekvivalizovaný čistý měsíční příjem domácnosti do **4. příjmového decilu**.
-- **Majetkový test 1+1** (vlastnictví max. dvou nemovitostí k bydlení).
-- **Trvalý pobyt žadatelovy domácnosti** (nelze splnit přes příbuzného v přímé linii).
+- Ekvivalizovaný čistý měsíční příjem domácnosti do **4. příjmového decilu** — posuzuje se k datu podání žádosti.
+- **Majetkový test 1+1** (vlastnictví max. dvou nemovitostí k bydlení) — posuzuje se k datu podání žádosti a po celou dobu administrace.
+- Trvalý pobyt žadatelovy domácnosti — řešen obecně v čl. 2.4; **výjimka přes příbuzného v přímé linii nelze použít** (platí jen pro max. 15 let).
 
-Při úvěru do 15 let se tyto přísnější podmínky neuplatňují (majetkový test ani příjmový limit se neřeší). *(Zdroj: Q&A webináře 3.6.2026)*
+Při úvěru do 15 let se tyto přísnější podmínky neuplatňují (majetkový test ani příjmový limit se neřeší). *(Zdroj: ZP úvěr RD v1.1 čl. 2.3)*
 
 ## Obecné podmínky úvěru RD
 
 - Zpětná **způsobilost výdajů: 12 měsíců** před podáním žádosti (platby/zálohy před tímto datem nejsou způsobilé). *(Zdroj: prezentace s. 18; Q&A)*
 - ✅ **Doložení realizace: 36 měsíců** ode dne vydání Rozhodnutí ministra, **nejpozději však do 31. 12. 2031** (lze požádat o prodloužení, opět max. do 31. 12. 2031). *(Zdroj: ZP úvěr RD čl. 2.4 f.)*
 - ✅ Smlouva o úvěru s finanční institucí musí být uzavřena **do 12 měsíců** od Rozhodnutí ministra, jinak se prostředky uvolní. K jednomu Rozhodnutí lze uzavřít **právě jednu** úvěrovou smlouvu. *(Zdroj: ZP úvěr RD čl. 2.3 n, o.)*
-- Podpora = **kompenzace úroků** prostřednictvím finančních institucí.
+- Podpora = **kompenzace úroků** prostřednictvím finančních institucí. Kompenzace se vztahuje na skutečně čerpané prostředky (při nižším čerpání se zastropuje). *(Zdroj: ZP úvěr RD v1.1 čl. 2.3)*
 - **Minimální výše úvěru 100 000 Kč** (neplatí pro příjemce NZÚ Light). *(Zdroj: prezentace s. 18; web)*
 - Výše úvěru podle rozsahu opatření; **úvěruschopnost posuzuje banka**.
 - Výše úvěru na jednotlivé opatření **nesmí přesáhnout doložitelné přímé realizační výdaje** tohoto opatření (úvěr se zastropuje na skutečných prokazatelných výdajích). Banka bude vyžadovat **faktury**. *(Zdroj: Q&A webináře 3.6.2026)*
@@ -78,14 +79,4 @@ Kompletní přehled částek (Kč/m², max. úvěry, technické parametry U-hodn
 
 ## Likvidace starých zdrojů
 
-V budově nesmí být instalován spalovací zdroj na **tuhá fosilní paliva nebo těžké topné oleje** sloužící pro vytápění/ohřev vody; pokud je, musí být k doložení realizace prokázána jeho ekologická likvidace. Výjimka: zdroje, jejichž provoz není vyloučen závazným předpisem a které umožňují alternativně spalovat biomasu (např. **kotle 3. a vyšší emisní třídy na více druhů paliv vč. dřeva** lze ponechat), nebo zdroje pořízené z veřejných prostředků (musí plnit min. 3. třídu). *(Zdroj: Q&A webináře 3.6.2026)*
-
-## Dokumenty a proces
-
-Požadované dokumenty k podání a k doložení realizace: **[[05_proces_zadosti_a_dokumenty]]**.
-
-Schéma administrace (úvěr): Podání žádosti → Posouzení přijatelnosti → (Doplnění) → Kontrola → **Vydání rozhodnutí ministra** → **Uzavření smlouvy s finanční institucí** → Doložení dokončení realizace → Závěrečné vyhodnocení → HOTOVO. *(Zdroj: prezentace s. 55)*
-
-## Kombinace, FVE plot, svépomoc — viz FAQ
-
-Časté praktické dotazy (svépomoc a faktury, FVE na plotě/garáži, kombinace s dřívějšími dotacemi, dvojí financování): [[08_faq]] a [[06_zpusobilost_kombinace_terminy]].
+V budově nesmí být instalován spalovací zdroj na **tuhá fosilní paliva nebo těžké topné oleje** sloužící pro vytápění/ohřev vody; pokud je, musí být k doložení realizace prokázána jeho ekologická likvidace. Výjimka: zdroje, jejichž provoz není vyloučen závazným předpisem a které umožňují alternativně spalovat biomasu (např

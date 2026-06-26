@@ -19,7 +19,7 @@
 
 | Pojem | Význam |
 |---|---|
-| **RD** | Rodinný dům (stavba pro bydlení max. 3 byty) |
+| **RD** | Rodinný dům — stavba pro bydlení, ve které více než polovina podlahové plochy slouží bydlení, max. 3 samostatné byty, max. 2 nadzemní podlaží + podkroví (dle § 13 písm. c zákona č. 283/2021 Sb.) |
 | **BD** | Bytový dům (stavba pro bydlení se 4 a více byty) |
 | **SVJ** | Společenství vlastníků jednotek |
 | **FO / PO** | Fyzická osoba / právnická osoba |
@@ -84,11 +84,24 @@
 | **Ecodesign** | EU požadavky na ekodesign výrobků (účinnost zdrojů) |
 | **EHPA Quality Label / HP Keymark / Eurovent** | Certifikáty ověření účinnosti tepelných čerpadel |
 | **Bivalence / bivalentní zdroj** | Druhý (záložní) zdroj tepla k hlavnímu (např. plynový kotel u TČ) |
+| **Těžká stěna** | Stěna s hmotností přesahující **100 kg/m²** (relevantní pro stanovení U-požadavků) |
+| **Výplně otvorů** | Okna, balkonové dveře, vchodové dveře, střešní okna a výplně mezi vytápěnými a **nevytápěnými** prostory |
 | **Ekvivalizovaný čistý měsíční příjem** | Příjem domácnosti přepočtený dle složení (pro výpočet decilu) |
 | **Decil (příjmový)** | Desetina rozdělení domácností dle příjmu (3., 4., 5. decil = příjmové hranice) |
 | **Majetkový test 1+1** | Domácnost vlastní max. 2 nemovitosti k bydlení |
 | **Doba udržitelnosti** | Období (5 let) po realizaci, kdy platí podmínky (trvalý pobyt, nezměna) |
 | **Zpětná způsobilost výdajů** | Období před podáním žádosti, za které lze uznat náklady (12 měsíců) |
+
+## Definice klíčových pojmů (dle ZP v1.1, platné od 24. 6. 2026)
+
+| Pojem | Definice |
+|---|---|
+| **Administrace žádosti** | Proces vyhodnocení, kontroly a schvalování podané žádosti Fondem. Začíná odesláním žádosti, končí závěrečným vyhodnocením (nebo zastavením/zpětvzetím). |
+| **Budova** | Nadzemní stavba a její podzemní části, prostorově soustředěná a navenek převážně uzavřená, v níž se používá energie k úpravě vnitřního prostředí za účelem vytápění nebo chlazení (zákon č. 406/2000 Sb.). |
+| **Domácnost** | Všechny osoby, které v posuzovaném bytu nebo bytové jednotce **trvale bydlí** a mohou se podílet na úhradě společných nákladů. |
+| **Podporovaná nemovitost** | Stávající stavba (RD, BD, stavba pro rodinnou rekreaci sloužící pro bydlení), na níž je realizováno podporované opatření; novostavba na místě odstraněné stavby pro bydlení pro účely komplexní renovace. |
+| **Odstranění stavby** | Pro účely programu — zbourání původní stavby pro bydlení za účelem stavby nového RD na témže pozemku (komplex RD). Není podmínkou shodný půdorys. |
+| **Programy MŽP** | Dotační programy vyhlášené Ministerstvem životního prostředí, administrované SFŽP ČR — zahrnují Zelenou úsporám, Novou zelenou úsporám, Oprav dům po babičce, NZÚ Light a programy výměny kotlů. Není-li uvedeno jinak, nepřihlíží se k podporám z těchto programů poskytnutým před 1. 1. 2009. |
 
 ## Relevantní právní předpisy
 
@@ -99,4 +112,5 @@
 | ČSN 73 0540-2 (vč. :2025) | Tepelná ochrana budov (požadavky, tepelné mosty) |
 | vyhláška č. 193/2007 Sb. | účinnost užití energie při rozvodu tepla (zaregulování soustav) |
 | zákon č. 360/1992 Sb. | autorizovaní architekti / inženýři / technici ve výstavbě |
+| zákon č. 283/2021 Sb. | Stavební zákon — definice rodinného domu (§ 13) a bytového domu (§ 13) |
 | EN 50549-1:2019 | připojení výroben k distribučním sítím (FVE měniče) |
