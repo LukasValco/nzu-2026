@@ -741,4 +741,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Navigate to start page
   navigate(startPage, false);
 
-  // Prel
+  // Preload all pages for search
+  preloadAll();
+});
+
+window.addEventListener('popstate', e => {
+  if (e.state && e.state.page) navigate(e.state.page, false);
+});
+
+// Expose for inline onclick
+window.navigate = navigate;
+window.toggleFaq = toggleFaq;
+</script>
+</body>
+</html>
