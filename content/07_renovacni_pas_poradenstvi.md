@@ -51,9 +51,13 @@ Příspěvky na vypracování renovačního pasu a poradenství: *(Zdroj: prezen
 - **Projektová dokumentace** (úvěr RD): autorizovaná osoba; pro oblasti C a D také odborná firma/dodavatel s živnostenským oprávněním.
 - **Zpráva o navrhovaných / provedených opatřeních** (Light): ES, autorizovaná osoba, **nebo energetický poradce — člen MAS / pracovník EKIS/M-EKIS**.
 - **Výpočtový nástroj vhodnosti TČ:** osoba/firma oprávněná dle § 10d (instalace TČ), autorizovaná osoba, nebo ES (§ 10 odst. 1 písm. a/b).
-- Zpracovatel **nesmí být ve střetu zájmů** s dodavatelem; činnost nesmí vykonávat žadatel/vlastník/stavebník ani osoby blízké. *(Zdroj: ZP Light čl. 5; ZP úvěr RD čl. 5.)*
+**Střet zájmů — odlišná pravidla pro RP vs. ostatní dokumenty (klíčová změna v1.0 → v1.1):**
 
-> ⚠ STÁLE PLATNÉ (avizováno v Q&A 3.6.2026, v ZP v1.1 zatím **nezměněno**): rozšíření okruhu zpracovatelů o **registrovaného energetického poradce/manažera**, úprava podmínky **střetu zájmů** a možné **zrušení Zprávy o navrhovaných opatřeních** — tyto změny v platné verzi ZP nejsou. *(Zdroj: Q&A webináře 3.6.2026; ZP v1.1 čl. 5.1)*
+- **Renovační pas NZÚ (v1.1):** nesmí zpracovat žadatel/vlastník/stavebník ani osoby jim blízké. Podmínka vyloučení pracovněprávního/smluvního vztahu s dodavatelem **u RP v ZP v1.1 již není** — byla záměrně odstraněna oproti v1.0. Energetický specialista ze stejné firmy jako dodavatel RP zpracovat **může**. *(Zdroj: ZP Light v1.1 čl. 5; ZP úvěr RD v1.1 čl. 5)*
+- **Zpráva o provedených opatřeních, technický dozor (v1.1):** zpracovatel nesmí být ve střetu zájmů, za který se považuje zejména **pracovněprávní, smluvní nebo jiný vztah s dodavatelem** — tento zákaz nadále platí. *(Zdroj: ZP Light v1.1 čl. 5; ZP úvěr RD v1.1 čl. 5)*
+- **Co říkalo v1.0:** RP, Zpráva o navrhovaných opatřeních i Zpráva o provedených opatřeních byly v jedné větě — všechny podléhaly zákazu pracovněprávního vztahu s dodavatelem. V1.1 RP z tohoto zákazu vyjmulo.
+
+> ⚠ Doporučujeme písemně potvrdit tento výklad u SFŽP (renovacni.pas@sfzp.gov.cz) před zavedením praxe. Rozšíření okruhu zpracovatelů o **registrovaného energetického poradce/manažera** v ZP v1.1 stále **není** — platí ES nebo autorizovaná osoba. *(Zdroj: ZP v1.1 čl. 5.1; srovnání ZP v1.0 a v1.1)*
 
 ## Registrace poradců a přístup do aplikace
 

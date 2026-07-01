@@ -658,10 +658,8 @@ function doSearch(query, fveOnly = false) {
 
 // ── Date ─────────────────────────────────────────────────────────────────────
 function setDate() {
-  const d = new Date();
-  const opts = { day: 'numeric', month: 'long', year: 'numeric' };
   document.getElementById('topbar-date').textContent =
-    'Poslední návštěva: ' + d.toLocaleDateString('cs-CZ', opts);
+    'Aktualizováno: 1. 7. 2026';
 }
 
 // ── Init ─────────────────────────────────────────────────────────────────────
