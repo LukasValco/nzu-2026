@@ -358,6 +358,12 @@
     <svg viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
     Zdroje
   </button>
+
+  <div class="nav-section-label">Historie</div>
+  <button class="nav-btn" data-page="changelog">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+    Changelog
+  </button>
 </nav>
 
 <!-- Main content -->
@@ -374,7 +380,7 @@ const PAGES = [
   '00_prehled_programu','01_nzu_light','02_uver_rodinne_domy',
   '03_uver_bytove_domy','04_castky_a_parametry','05_proces_zadosti_a_dokumenty',
   '06_zpusobilost_kombinace_terminy','07_renovacni_pas_poradenstvi',
-  '08_faq','09_pojmy_zkratky','10_zdroje'
+  '08_faq','09_pojmy_zkratky','10_zdroje','changelog'
 ];
 const PAGE_LABELS = {
   '00_prehled_programu': 'Přehled programu',
@@ -387,7 +393,8 @@ const PAGE_LABELS = {
   '07_renovacni_pas_poradenstvi': 'Renovační pas',
   '08_faq': 'FAQ',
   '09_pojmy_zkratky': 'Pojmy a zkratky',
-  '10_zdroje': 'Zdroje'
+  '10_zdroje': 'Zdroje',
+  'changelog': 'Changelog'
 };
 
 // ── State ───────────────────────────────────────────────────────────────────
@@ -734,17 +741,4 @@ document.addEventListener('DOMContentLoaded', () => {
   // Navigate to start page
   navigate(startPage, false);
 
-  // Preload all pages for search
-  preloadAll();
-});
-
-window.addEventListener('popstate', e => {
-  if (e.state && e.state.page) navigate(e.state.page, false);
-});
-
-// Expose for inline onclick
-window.navigate = navigate;
-window.toggleFaq = toggleFaq;
-</script>
-</body>
-</html>
+  // Prel
